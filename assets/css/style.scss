@@ -1,0 +1,12 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Section - for main page content */
+
+@media screen and (min-width: 961px){
+	section {
+		margin-top:30px;
+	}
+}
