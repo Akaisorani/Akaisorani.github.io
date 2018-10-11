@@ -22,7 +22,7 @@ show_downloads: false
 show_view_on_github: false
 # Build settings
 # markdown: kramdown
-google_analytics: UA-127310117-1
+# google_analytics: UA-127310117-1
 theme: jekyll-theme-dinky
 plugins:
   - jekyll-feed
