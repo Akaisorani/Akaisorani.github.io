@@ -10,3 +10,35 @@
 		margin-top:30px;
 	}
 }
+
+header li{
+	margin-bottom: 12px;
+}
+
+a.buttons {
+	background: none;
+}
+
+header li a.link {
+	background: url(../images/link.svg) no-repeat 1px;
+	background-size: auto 80%;
+}
+
+header li a.current{
+	text-decoration: underline;
+}
+
+header li a.current:hover {
+	text-decoration: underline;
+}
+
+footer ion-icon{
+	color: #232323;
+}
+
+img.shadow {
+	background: #ffffff;
+	padding: 5px 5px 5px 5px;
+	margin: 0px 5px 5px 0px;
+	box-shadow: darkgrey 3px 3px 5px 1px;
+}
